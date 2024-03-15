@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtsemipar': Baltagi and Li’s (2002) semiparametric fixed effects regression estimator in panel data Use xtsemipar With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtsemipar.ado
+f xtsemipar.sthlp
