@@ -2,3 +2,9 @@ d 'xtsemipar': Baltagi and Li’s (2002) semiparametric fixed effects regression
 d
 f xtsemipar.ado
 f xtsemipar.sthlp
+f bspline.sthlp
+f bspline.ado
+f frencurv.sthlp
+f flexcurv.ado
+f flexcurv.sthlp
+f frencurv.ado
