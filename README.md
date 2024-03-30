@@ -9,6 +9,8 @@ Baltagi and Li’s (2002) semiparametric fixed effects regression estimator Use 
 
 Semiparametric estimator in panel data Use xtsemipar With STATA 18
 
+https://www.youtube.com/watch?v=oMtl7i3ncQU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
